@@ -9,6 +9,5 @@ Sou um web e mobile developer e gosto muito de aprender novas tecnologias, tenho
 ### links para outras redes:
 
 [LinkedIn](https://www.linkedin.com/in/alex-ferreira-santos-/) <br>
-[Rocketseat](https://app.rocketseat.com.br/me/alex-02719)<br>
 
 Para quem tiver interesse em usar os card segue o [link](https://github.com/anuraghazra/github-readme-stats)
