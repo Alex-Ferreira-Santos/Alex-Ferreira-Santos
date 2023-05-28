@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou um web e mobile developer e gosto muito de aprender novas tecnologias, tenho 19 anos e tenho conhecimento de algumas técnologias
+Sou um web e mobile developer e gosto muito de aprender novas tecnologias, tenho 20 anos e tenho conhecimento de algumas técnologias
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Ferreira-Santos&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
