@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-Sou um web e mobile developer e gosto muito de aprender novas tecnologias, tenho 20 anos e tenho conhecimento de algumas técnologias
+I'm a web and mobile developer and i like to learn new technologies, I'm 20 and have some experience
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Ferreira-Santos&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Ferreira-Santos&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-### links para outras redes:
+### links:
 
 [LinkedIn](https://www.linkedin.com/in/alex-ferreira-santos-/) <br>
 
-Para quem tiver interesse em usar os card segue o [link](https://github.com/anuraghazra/github-readme-stats)
+If you wanna use these card, check this [link](https://github.com/anuraghazra/github-readme-stats)
