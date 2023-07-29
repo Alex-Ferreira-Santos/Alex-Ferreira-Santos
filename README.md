@@ -8,4 +8,4 @@ I'm a web and mobile developer and i like to learn new technologies, I'm 20 and 
 
 [LinkedIn](https://www.linkedin.com/in/alex-ferreira-santos-/) <br>
 
-If you wanna use these card, check this [link](https://github.com/anuraghazra/github-readme-stats)
+If you wanna use this card, check this [link](https://github.com/anuraghazra/github-readme-stats)
