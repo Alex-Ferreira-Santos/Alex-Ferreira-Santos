@@ -2,8 +2,9 @@
 
 I'm a web and mobile developer and i like to learn new technologies, I'm 20 and have some experience
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alex-Ferreira-Santos&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Alex-Ferreira-Santos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Ferreira-Santos&layout=compact&langs_count=7&theme=algolia&count_private=true"/>
+  
 ### links:
 
 [LinkedIn](https://www.linkedin.com/in/alex-ferreira-santos-/) <br>
